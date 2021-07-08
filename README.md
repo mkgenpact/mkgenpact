@@ -9,6 +9,7 @@ listed below some of my experties in programming world.
   - Documentum
   - Basic Python
   - Angular Js
+  - Oracle/Sql Server database
   
 
 - 👀 I am interested in solving real world programming challenges. I like coding to build a meaning full project and help industries to achieve their business.
